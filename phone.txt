@@ -1,2 +1,5 @@
 phone
 git
+
+touchscreen
+scratch-gorilla glass
